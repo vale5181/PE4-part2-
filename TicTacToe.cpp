@@ -21,9 +21,11 @@ int GetPlayerChoice(std::string name)
     return turn;
 }
 
+// takes location and player and updates array with
+// player's choice
 void PlaceMarker(char ar[3][3], int position, char player)
 {
-    switch(position)
+    switch(position) // switch case for position on array board
     {
         case 1:
             ar[0][0] = player;
@@ -71,7 +73,7 @@ void DisplayBoard(char arr[3][3])
     }
 }
 
-void CreateBoard(char ar[3][3])
+void CreateBoard(char ar[3][3]) // array of characters
 {
     for(int i = 0; i < 3; i++)
     {
