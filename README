@@ -1,1 +1,11 @@
-creating a README file :)
+Person 1: Isha Karki
+Person 2: Vananh Le
+
+Our program is a simulation of TICTACTOE, where it allow two players to input their names and take turn placing X's and O's on a position on the board. 
+The game ends after 9 turns. 
+The array position is as followed:
+                                    1 2 3
+                                    4 5 6
+                                    7 8 9
+
+To run the program, simply input "make" then ".\play" onto your terminal

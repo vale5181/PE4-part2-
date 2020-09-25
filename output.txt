@@ -1,0 +1,42 @@
+- - - 
+- - -
+- - -
+Please enter Player 1's name: Isha
+Please enter Player 2's name: Vananh
+Isha, where would you like to go? Please choose between 1-9: 1
+X - - 
+- - -
+- - - 
+Vananh, where would you like to go? Please choose between 1-9: 4
+X - - 
+O - -
+- - -
+Isha, where would you like to go? Please choose between 1-9: 2
+X X - 
+O - -
+- - -
+Vananh, where would you like to go? Please choose between 1-9: 3
+X X O 
+O - -
+- - - 
+Isha, where would you like to go? Please choose between 1-9: 9
+X X O 
+O - -
+- - X
+Vananh, where would you like to go? Please choose between 1-9: 5
+X X O 
+O O -
+- - X
+Isha, where would you like to go? Please choose between 1-9: 6
+X X O 
+O O X
+- - X
+Vananh, where would you like to go? Please choose between 1-9: 8
+X X O 
+O O X
+- O X
+Isha, where would you like to go? Please choose between 1-9: 7
+X X O 
+O O X
+X O X 
+Thanks for playing!
