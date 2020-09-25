@@ -10,7 +10,7 @@ int GetPlayerChoice ()
     std:: cin >> choice;
     while (choice < 1 || choice >9)
     {
-        cout << "Invalid input: Please choose between 1-9 :)"
+        std:: cout << "Invalid input: Please choose between 1-9 :)";
         std:: cin >> choice;
     }
     return choice;
@@ -46,5 +46,7 @@ int main()
     int ar[3][3];
     CreateBoard(ar);
     DisplayBoard(ar);
+    std:: cout << GetPlayerChoice() << std:: endl;
+    
   
 }
